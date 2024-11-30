@@ -1,4 +1,3 @@
----
 
 # Minimal Blog
 
@@ -37,5 +36,3 @@
 ## Why Minimal Blog?
 
 Minimal Blog now brings the power of mobile-first design to your fingertips. Whether you're an on-the-go writer, photographer, or content creator, the platform allows you to express and share your ideas effortlessly through an elegant and efficient app.
-
---- 
